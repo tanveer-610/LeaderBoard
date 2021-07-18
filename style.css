@@ -140,7 +140,7 @@ span{
 @media only screen and (max-width:668px) {
     .container{
         width: 100%;
-       text-align: center;
+        text-align: center;
     }
     .players,.blogs,.courses{
         grid-template-columns: repeat(1,1fr);
